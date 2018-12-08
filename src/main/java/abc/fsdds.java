@@ -7,4 +7,5 @@ public class fsdds {
 
 
     private String  nbum;
+    private int ooooooooooooo;
 }
