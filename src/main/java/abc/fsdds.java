@@ -8,4 +8,6 @@ public class fsdds {
 
     private String  nbum;
     private int ooooooooooooo;
+
+    private String s2043;
 }
